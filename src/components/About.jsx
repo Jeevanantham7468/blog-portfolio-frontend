@@ -19,7 +19,7 @@ function About() {
 
       <div className="max-w-3xl mx-auto px-4">
         <p className="text-gray-700 mb-4">
-          Hi, I'm <span className="font-semibold">Jacky Thomas</span> — a full stack web developer
+          Hi, I'm <span className="font-semibold">Jeevanantham</span> — a full stack web developer
           who enjoys turning ideas into fast, accessible and reliable web applications.
         </p>
         <p className="text-gray-700 mb-8">
